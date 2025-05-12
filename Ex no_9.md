@@ -4,11 +4,13 @@
 To write a C program to find the sum of odd digits using do while loop.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Start
+2. Declare variables: num, digit, sum
+3. Initialize sum = 0
+4. Prompt and read the number using scanf
+5. Convert number to positive if negative
+6. Use do...while loop to extract digits and add odd ones to sum
+7. Print the sum and End
 
 ## Program:
 ```
@@ -44,6 +46,7 @@ int main() {
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/e671bfce-5930-4983-8671-2aa7c4e68b85)
 
 
 
